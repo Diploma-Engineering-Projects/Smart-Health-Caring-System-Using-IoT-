@@ -1,1 +1,3 @@
 # Smart-Health-Caring-System-Using-IoT-
+  This project presents an IoT-based healthcare monitoring system for real-time patient health tracking. It uses a temperature sensor and pulse sensor to measure body temperature and heart rate. The collected data is sent to the ThingSpeak cloud platform, where it can be stored and accessed remotely. This enables doctors to monitor patients and provide timely medical advice during emergencies, even when they are not physically present. The system improves healthcare accessibility, supports remote monitoring, and enhances emergency medical services.
+## Requirement
